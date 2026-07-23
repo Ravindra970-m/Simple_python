@@ -14,7 +14,7 @@ def divid(a, b):
 
 def main():
     a = float(input("Enter first number: "))
-    b = float(input("Enter second number: "))
+    b = float(input("Enter second number123: "))
 
     print("Addition:", add(a, b))
     print("Subtraction:", subtract(a, b))
